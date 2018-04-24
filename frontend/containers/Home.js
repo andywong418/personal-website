@@ -14,7 +14,7 @@ class Home extends React.Component {
   render() {
     return (
       <div>
-        <h1>{this.props.name}</h1>
+        <h1>Andros' personal site</h1>
         <Link to={"/anotherPage"}> Click Here </Link>
       </div>
     );
